@@ -24,31 +24,58 @@ As a data analyst I have created new interactive dashboard using their sample da
 
 The first step to building the dashboard is to work out all erros, null values and all the calculations and visualizations.
 
-List of all key matrics -
-* Revenue, Total Booking, Total Capacity, Average Rating, Number of days(Working day and weekend)
-* Total Successful Booking, Total Cancelled Booking, Total No Show Booking, Total Checked Out
-* Occupancy %, Cancelled %, No Show Rate %
-* Booking % by Platform, Booking % by Room Class
-* ADR(Average Daily Rate) - It is the ratio of revenue to the total rooms booked/sold. 
-  It is the measure of the average paid for rooms sold in a given time period
-* Realisation % =  The succesful "checked out" percentage over all bookings happened.
-* RevPAR - Revenue Per Avaliable Room
-* DBRN(Daily Booking Room Nights)
-* DSRN(Daily Sellable Room Nights)
-* DURN(Daily Utilized Room Nights)
-* Revenue WoW change %
-* Occupancy WoW change %
-* ADR WoW change %
-* RevPAR WoW change %
-* Realisation WoW change %
-* DSRN WoW change %
-
 WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a specific variable over a period of one week compared to the previous week. It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
 
-## Visualisatin of key matrices - 
+### Visualisation of key matrices and DAX Calculation- 
 
-1. Calculate the mean `gross` for each year.
-   <img src="Hostpitality_Analysis_Dashboard/Main_kpi.png" width="400" height="400">
+1. Calculate the 'Revenue' for each months.
+   
+```
+   Revenue = SUM(fact_bookings[revenue_realized])
+```
+```
+    RevPAR = DIVIDE([Revenue],[Total Capacity])
+```
+```
+   DSRN = RevPAR = DIVIDE([Revenue],[Total Capacity])
+```
+```
+   ADR = DIVIDE( [Revenue], [Total Bookings],0)
+```
+```
+   Realisation % = 1- ([Cancellation %]+[No Show rate %])
+```
+```
+   Occupancy % = DIVIDE([Total Succesful Bookings],[Total Capacity],0)
+```
+<img src="https://drive.google.com/drive/u/0/folders/122e4uAld1ZA4bjwcE4gbrvILpregnpGv" width="300" height="300">
+
+<hr style="width:80%">
+
+### Trend By Key Matrics - 
+
+1. Revenue Trend by Week
+   <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200" padding = 50px>
+2. RevPAR Trebd by Week and Day Type
+    <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+3. DSRN by Week
+    <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+4. Occupancy % by Week and Day Type
+    <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+5. ADR by Week
+     <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+6.  Realisation % by Week and Day Type
+   <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="500" height="200">
+   
+<hr style="width:80%">
+
+### Revenue By Category - 
+<img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+
+
+
+### Realisation % and ADR by Platform - 
+<img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
 
 
 
