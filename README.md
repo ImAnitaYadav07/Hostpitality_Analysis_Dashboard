@@ -45,5 +45,11 @@ List of all key matrics -
 
 WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a specific variable over a period of one week compared to the previous week. It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
 
+## Visualisatin of key matrices - 
+
+1. Calculate the mean `gross` for each year.
+   <img src="Hostpitality_Analysis_Dashboard/Main_kpi.png" width="400" height="400">
+
+
 
 
