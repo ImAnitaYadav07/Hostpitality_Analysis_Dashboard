@@ -20,7 +20,7 @@ As a data analyst I have created new interactive dashboard in #POWER BI using th
 * Hotels [dim.csv](Hostpitality_Analysis_Dashboard/dim_hotels.csv) 
 * Hotal Room Type [dim_rooms](Hostpitality_Analysis_Dashboard/dim_date.csv)
 * Matrics List - [Matrics list.xlsx](Hostpitality_Analysis_Dashboard/matrics list.xlsx)
-* Revenue Insight Dashbord [Dashboard Starter Jupyter Notebook](Hostpitality_Analysis_Dashboard/hospitality dashboard.pbix)
+* Revenue Insight Dashbord [Dashboard Starter Jupyter Notebook](Hostpitality_Analysis_Dashboard/InsightReport.pdf)
 
 ### Rental Analysis
 
@@ -50,23 +50,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
    Occupancy % = DIVIDE([Total Succesful Bookings],[Total Capacity],0)
 ```
 
-### Trend By Key Matrics - 
-
-1. Revenue Trend by Week
-   <img align='right' src="Hostpitality_Analysis_Dashboard/RevenueWOW.png" width="600" height="200" padding = 50px>
-   * 
-2. RevPAR Trebd by Week and Day Type
-    <img align='right' src="Hostpitality_Analysis_Dashboard/RevByWeek.png" width="600" height="200">
-3. DSRN by Week
-    <img align='right' src="Hostpitality_Analysis_Dashboard/DSRNbyWeek.png" width="600" height="200">
-4. Occupancy % by Week and Day Type
-    <img align='right' src="Hostpitality_Analysis_Dashboard/OccupencyByWeek.png" width="600" height="200">
-5. ADR by Week
-     <img align='right' src="Hostpitality_Analysis_Dashboard/ADRbyWeek.png" width="600" height="200">
-6.  Realisation % by Week and Day Type
-   <img align='right' src="Hostpitality_Analysis_Dashboard/RealisationWeek.png" width="500" height="200">
-   
-<hr style="width:80%">
+# Trends of Key Matrics Insights
 
 ## Revenue Trends - 
 
@@ -102,13 +86,20 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
       * Occupency % started dropped from 54.9% to 45.4% during its steepest decline between Friday,June 17,2022 and Friday, June 24,2022.
 3. Long Trend -
       * Occupency % experienced the longest period decline -25.2% to 45.4% between Sunday,June 5,2022 and Thursday, June 16,2022.
+  
+# Summeery And KPI Analysis - 
 
-## MockUp Dashboard -
-<img src="Hostpitality_Analysis_Dashboard/Mockup_Dashboard.png" width="800" height="500">
+* Overall Revenue is currently at 1708771229.1 segments have significantly lowwer Revenue than others, and 1 sigments have significantly have  higher Revenue.
+* Overall RevPAR is currently at 7,347 and RevPAR for property name 'Atliq Grands' is significantly lower than other segments at 6,532.
+* Overall Sum of number of week is currently 2307 and sum of number of week 'W 32' is significanlty lower than other segments at 32.
+* Overall Total Succesful Booking is currently at 134590. and Total Succesful Booking for week no. 'W 32' and property name 'Atliq Seasons' are significantly lower ta=han other segments at a1651 and 3982, respectively.
+  
+# MockUp Dashboard -
+<img src="Hostpitality_Analysis_Dashboard/Mockup_Dashboard.png" height="500">
 
 ## Updated Dashboard -
 
 final Dashboard - [Revenue insight Dashboard](https://app.powerbi.com/links/ugSfV8GChZ?ctid=c3261a2c-fdd4-42d9-aa75-3d2ff751da4c&pbi_source=linkShare)]
 
-<img src="Hostpitality_Analysis_Dashboard/Revenue_Dashboard.png" width="800" height="500">
+
 
