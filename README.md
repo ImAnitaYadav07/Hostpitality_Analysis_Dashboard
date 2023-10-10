@@ -56,6 +56,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 
 1. Recent Trend -
       * Realisation % started trending up on Monday,Auguest 1,2022 rising by 0.08%(0.1%) in 4 days.
+<img src="./RevenueInsight.png" >
 
 ## Realisation % Trends -
 
@@ -65,19 +66,22 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 2. Upward Trend -
       * Realisation % started trending down between Tuesday,June 21,2022 and Sunday, July 24, 2022 with a drop of 3.0% but had a significant change in trend and rose by 1.6% starting Monday, July 25.
 
+<img src="./RealisationWowTrend.png" >
 
 ## ADR Trends - 
 
 1. Recent Trend -
       * ADR started trending up on Sunday,July 17,2022 rising by 0.50%(63) in 14 days.
-
 2. Long Trend -
       * ADR experinced the longest period of growth(+63) between Sunday,July 17,2022 and Sunday,July 31,2022.
+        
+<img src="./ADRtrends.png" >
 
 ## RevPAR Trends - 
 
 1. Recent Trend -
       * RevPAR started trending up on Monday,July 27,2022 rising by 20.45%(1,409) in 1.1 months.
+<img src="./RevARreport.png" >
   
 ## Occupancy % Trends - 
 
@@ -87,6 +91,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
       * Occupency % started dropped from 54.9% to 45.4% during its steepest decline between Friday,June 17,2022 and Friday, June 24,2022.
 3. Long Trend -
       * Occupency % experienced the longest period decline -25.2% to 45.4% between Sunday,June 5,2022 and Thursday, June 16,2022.
+<img src="./OccupancyInsught.png" >
   
 # KPI Analysis - 
 
