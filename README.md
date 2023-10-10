@@ -96,7 +96,8 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 * Overall Total Succesful Booking is currently at 134590. and Total Succesful Booking for week no. 'W 32' and property name 'Atliq Seasons' are significantly lower ta=han other segments at 1651 and 3982, respectively.
   
 # MockUp Dashboard -
-<img src="Hostpitality_Analysis_Dashboard/Mockup_Dashboard.png" height="500">
+
+(https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
 
 ## Updated Dashboard -
 
