@@ -19,7 +19,7 @@ As a data analyst I have created new interactive dashboard by using provided sam
 * Booking date - [dim_date.csv](Hostpitality_Analysis_Dashboard/dim_date.csv)
 * Hotels [dim.csv](Hostpitality_Analysis_Dashboard/dim_hotels.csv) 
 * Hotal Room Type [dim_rooms](Hostpitality_Analysis_Dashboard/dim_date.csv)
-* Matrics List - [Key Matrics Formul List.xlsx](Hostpitality_Analysis_Dashboard/KeyMatricsFormula.xlsx)
+* Matrics List - [Key Matrics Formula List.xlsx](Hostpitality_Analysis_Dashboard/KeyMatricsFormula.xlsx)
 * Revenue Insight Dashbord [Dashboard Starter Jupyter Notebook](Hostpitality_Analysis_Dashboard/InsightReport.pdf)
 
 ### Rental Analysis
