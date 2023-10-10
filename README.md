@@ -38,7 +38,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
     RevPAR = DIVIDE([Revenue],[Total Capacity])
 ```
 ```
-   DSRN = RevPAR = DIVIDE([Revenue],[Total Capacity])
+   DSRN = DSRN = DIVIDE([Total Capacity], [No of days]))
 ```
 ```
    ADR = DIVIDE( [Revenue], [Total Bookings],0)
