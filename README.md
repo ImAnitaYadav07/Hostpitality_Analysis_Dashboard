@@ -1,12 +1,14 @@
+
 # Revenue Insight of Hospitality Domain
 <b>Domain :<b/>Hostpitality<br>
 <b>Function :<b/>Revenue
+
 
 ## Background
 
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
-As a data analyst I have created new interactive dashboard using their sample data and a mock-up dashboard to work on the following task.
+As a data analyst I have created new interactive dashboard in #POWER BI using their sample data and a mock-up dashboard to work on the following task.
 
 * To create the metrics according to the metric list.
 * To create a dashboard according to the mock-up provided by stakeholders.
@@ -52,6 +54,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 
 1. Revenue Trend by Week
    <img align='right' src="Hostpitality_Analysis_Dashboard/RevenueWOW.png" width="600" height="200" padding = 50px>
+   * 
 2. RevPAR Trebd by Week and Day Type
     <img align='right' src="Hostpitality_Analysis_Dashboard/RevByWeek.png" width="600" height="200">
 3. DSRN by Week
@@ -65,14 +68,40 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
    
 <hr style="width:80%">
 
-### Revenue By Category - 
-<img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+## Revenue Trends - 
 
-### Realisation % and ADR by Platform - 
-<img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+1. Recent Trend -
+      * Realisation % started trending up on Monday,Auguest 1,2022 rising by 0.08%(0.1%) in 4 days.
 
-### Properties By key Matrics - 
-<img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="800" height="500">
+## Realisation % Trends -
+
+1. Recent Trend -
+      * Realisation % started trending up on Monday,Auguest 1,2022 rising by 0.08%(0.1%) in 4 days.
+      * Realisation % started trending up on Monday,July 25,2022 rising by 2.22%(1.6%) in 6 days.
+2. Upward Trend -
+      * Realisation % started trending down between Tuesday,June 21,2022 and Sunday, July 24, 2022 with a drop of 3.0% but had a significant change in trend and rose by 1.6% starting Monday, July 25.
+
+
+## ADR Trends - 
+
+1. Recent Trend -
+      * ADR started trending up on Sunday,July 17,2022 rising by 0.50%(63) in 14 days.
+2. Long Trend -
+      * ADR experinced the longest period of growth(+63) between Sunday,July 17,2022 and Sunday,July 31,2022.
+
+## RevPAR Trends - 
+
+1. Recent Trend -
+      * RevPAR started trending up on Monday,July 27,2022 rising by 20.45%(1,409) in 1.1 months.
+  
+## Occupancy % Trends - 
+
+1. Recent Trend -
+      * Occupency % started trending down on Friday,June 17,2022 falling by 17.30%(9.5%) in 7 days.
+2. Streep Trend -
+      * Occupency % started dropped from 54.9% to 45.4% during its steepest decline between Friday,June 17,2022 and Friday, June 24,2022.
+3. Long Trend -
+      * Occupency % experienced the longest period decline -25.2% to 45.4% between Sunday,June 5,2022 and Thursday, June 16,2022.
 
 ## MockUp Dashboard -
 <img src="Hostpitality_Analysis_Dashboard/Mockup_Dashboard.png" width="800" height="500">
@@ -82,3 +111,4 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 final Dashboard - [Revenue insight Dashboard](https://app.powerbi.com/links/ugSfV8GChZ?ctid=c3261a2c-fdd4-42d9-aa75-3d2ff751da4c&pbi_source=linkShare)]
 
 <img src="Hostpitality_Analysis_Dashboard/Revenue_Dashboard.png" width="800" height="500">
+
