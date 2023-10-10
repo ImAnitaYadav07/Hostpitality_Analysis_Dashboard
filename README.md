@@ -97,7 +97,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
   
 # MockUp Dashboard -
 
-(https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+
 
 ## Updated Dashboard -
 
