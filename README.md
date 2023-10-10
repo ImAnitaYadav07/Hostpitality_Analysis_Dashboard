@@ -1,4 +1,4 @@
-# Revenue Insight of Hostpitality Domain
+# Revenue Insight of Hospitality Domain
 <b>Domain :<b/>Hostpitality<br>
 <b>Function :<b/>Revenue
 
@@ -28,7 +28,6 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 
 ### Visualisation of key matrices and DAX Calculation- 
 
-1. Calculate the 'Revenue' for each months.
    
 ```
    Revenue = SUM(fact_bookings[revenue_realized])
@@ -48,35 +47,38 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 ```
    Occupancy % = DIVIDE([Total Succesful Bookings],[Total Capacity],0)
 ```
-<img src="https://drive.google.com/drive/u/0/folders/122e4uAld1ZA4bjwcE4gbrvILpregnpGv" width="300" height="300">
-
-<hr style="width:80%">
 
 ### Trend By Key Matrics - 
 
 1. Revenue Trend by Week
-   <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200" padding = 50px>
+   <img align='right' src="Hostpitality_Analysis_Dashboard/RevenueWOW.png" width="600" height="200" padding = 50px>
 2. RevPAR Trebd by Week and Day Type
-    <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+    <img align='right' src="Hostpitality_Analysis_Dashboard/RevByWeek.png" width="600" height="200">
 3. DSRN by Week
-    <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+    <img align='right' src="Hostpitality_Analysis_Dashboard/DSRNbyWeek.png" width="600" height="200">
 4. Occupancy % by Week and Day Type
-    <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+    <img align='right' src="Hostpitality_Analysis_Dashboard/OccupencyByWeek.png" width="600" height="200">
 5. ADR by Week
-     <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
+     <img align='right' src="Hostpitality_Analysis_Dashboard/ADRbyWeek.png" width="600" height="200">
 6.  Realisation % by Week and Day Type
-   <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="500" height="200">
+   <img align='right' src="Hostpitality_Analysis_Dashboard/RealisationWeek.png" width="500" height="200">
    
 <hr style="width:80%">
 
 ### Revenue By Category - 
 <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
 
-
-
 ### Realisation % and ADR by Platform - 
 <img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="600" height="200">
 
+### Properties By key Matrics - 
+<img align='right' src="Hostpitality_Analysis_Dashboard/.png" width="800" height="500">
 
+## MockUp Dashboard -
+<img src="Hostpitality_Analysis_Dashboard/Mockup_Dashboard.png" width="800" height="500">
 
+## Updated Dashboard -
 
+final Dashboard - [Revenue insight Dashboard](https://app.powerbi.com/links/ugSfV8GChZ?ctid=c3261a2c-fdd4-42d9-aa75-3d2ff751da4c&pbi_source=linkShare)]
+
+<img src="Hostpitality_Analysis_Dashboard/Revenue_Dashboard.png" width="800" height="500">
