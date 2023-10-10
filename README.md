@@ -70,6 +70,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 
 1. Recent Trend -
       * ADR started trending up on Sunday,July 17,2022 rising by 0.50%(63) in 14 days.
+
 2. Long Trend -
       * ADR experinced the longest period of growth(+63) between Sunday,July 17,2022 and Sunday,July 31,2022.
 
@@ -81,7 +82,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 ## Occupancy % Trends - 
 
 1. Recent Trend -
-      * Occupency % started trending down on Friday,June 17,2022 falling by 17.30%(9.5%) in 7 days.
+   * Occupency % started trending down on Friday,June 17,2022 falling by 17.30%(9.5%) in 7 days.
 2. Streep Trend -
       * Occupency % started dropped from 54.9% to 45.4% during its steepest decline between Friday,June 17,2022 and Friday, June 24,2022.
 3. Long Trend -
