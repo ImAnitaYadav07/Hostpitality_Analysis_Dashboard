@@ -8,7 +8,7 @@
 
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
-As a data analyst I have created new interactive dashboard in #POWER BI using their sample data and a mock-up dashboard to work on the following task.
+As a data analyst I have created new interactive dashboard by using provided sample data and a mock-up dashboard to work on the following task-
 
 * To create the metrics according to the metric list.
 * To create a dashboard according to the mock-up provided by stakeholders.
@@ -99,7 +99,9 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 
 ## Updated Dashboard -
 
-final Dashboard - [Revenue insight Dashboard](https://app.powerbi.com/links/ugSfV8GChZ?ctid=c3261a2c-fdd4-42d9-aa75-3d2ff751da4c&pbi_source=linkShare)]
+final Dashboard - [Revenue insight Dashboard](https://app.powerbi.com/links/ugSfV8GChZ?ctid=c3261a2c-fdd4-42d9-aa75-3d2ff751da4c&pbi_source=linkShare)
+
+Tool For Dashbord Visualisation - Microsoft Power BI
 
 
 
