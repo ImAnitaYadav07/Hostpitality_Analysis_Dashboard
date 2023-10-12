@@ -111,7 +111,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
 
 final Dashboard - [Revenue insight Dashboard](https://app.powerbi.com/links/ugSfV8GChZ?ctid=c3261a2c-fdd4-42d9-aa75-3d2ff751da4c&pbi_source=linkShare)
 
-Tool For Dashbord Visualisation - Microsoft Power BI
+Tool For Dashboard Visualisation - Microsoft Power BI
 
 
 
