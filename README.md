@@ -1,6 +1,6 @@
 
 # Revenue Insight of Hospitality Domain
-<b>Domain :<b/>Hostpitality<br>
+<b>Domain :<b/>Hospitality<br>
 <b>Function :<b/>Revenue
 
 
