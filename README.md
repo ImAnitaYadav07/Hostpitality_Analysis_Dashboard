@@ -95,7 +95,7 @@ WoW - Week-on-Week (WoW) is a type of business metric that measures changes in a
   
 # KPI Analysis - 
 
-* Overall Revenue is currently at 1708771229.1 segments have significantly lowwer Revenue than others, and 1 sigments have significantly have  higher Revenue.
+* Overall Revenue is currently at 1708771229.1 segments have significantly lower Revenue than others, and 1 sigments have significantly have  higher Revenue.
 * Overall RevPAR is currently at 7,347 and RevPAR for property name 'Atliq Grands' is significantly lower than other segments at 6,532.
 * Overall Sum of number of week is currently 2307 and sum of number of week 'W 32' is significanlty lower than other segments at 32.
 * Overall Total Succesful Booking is currently at 134590. and Total Succesful Booking for week no. 'W 32' and property name 'Atliq Seasons' are significantly lower ta=han other segments at 1651 and 3982, respectively.
